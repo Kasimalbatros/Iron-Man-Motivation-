@@ -1,0 +1,14 @@
+Whenever You want borders on your image then Take class Iside Img and give Property as 
+border:10px solid yellow;
+
+Ex:- 
+In HTML
+<img class="zxc" src="give relative path" width="50%" height="50%" alt="Image is not shown"/>
+
+
+CSS
+
+.zxc{
+border:10px solid yellow;
+width:100%;
+}
